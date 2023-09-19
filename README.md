@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at : [Portfolio](/)
 
-- 📄 Know about my experiences [CV](https://www.notion.so/Mohamed-Said-Abdallah-4e6e5b071ab04d159b2980d2929dea60)
+- 📄 Know about my experiences [CV]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
